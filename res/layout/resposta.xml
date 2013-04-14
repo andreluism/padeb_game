@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <LinearLayout
+        android:id="@+id/layoutResposta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal|center_vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutResposta2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal|center_vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutResposta3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal|center_vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutLetras"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:gravity="center_horizontal|center_vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutLetras2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal|center_vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutLetras3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal|center_vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutLetras4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center_horizontal|center_vertical" >
+    </LinearLayout>
+
+</LinearLayout>

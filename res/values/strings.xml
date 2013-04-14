@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="interrogacao"> \? </string>
+    <string name="resposta"> Resposta </string>
+    <string name="sabia">Você sabia que de acordo com o SAEB 2011 no estado</string>
+    <string name="port5">Português 5º ano</string>
+    <string name="port9">Português 9º ano</string>
+    <string name="mtm5">Matemática 5º ano</string>
+    <string name="mtm9">Matemática 9º ano</string>
+    <string name="aprend">Porcentagem de alunos com aprendizado adequado em 2011</string>
+    
+</resources>
